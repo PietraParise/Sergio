@@ -1,22 +1,28 @@
 .caixa1{
-    background-image: linear-gradient(to bottom right, rgb(255, 135, 191) , rgb(247, 236, 242));
+    background-image: linear-gradient(to bottom right, rgb(255, 135, 191) , rgb(221, 183, 204));
     width: 600px;
     height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
-    
-   
-
-
 }
 .caixa2{
     background-color: pink;
     width: 450px;
     height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 input{
    width: 200px;
+   height: 50px;
+}
+body{
+    background-color: rgb(245, 220, 238);
+}
+.input1{
+    width: 200px;
    height: 50px;
 }
