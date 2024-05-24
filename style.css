@@ -59,5 +59,10 @@ body{
 .caixinha{
     width: 20px;
 }
-
+.senha{
+    border-radius: 20px;
+}
+.nome{
+    border-radius: 20px;
+}
 
