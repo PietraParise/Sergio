@@ -1,0 +1,147 @@
+@media screen and (max-width: 400px) {
+body{
+    background-color: #eba3dbf8;
+}
+h1{
+    margin-left: 25px;
+}
+.botão1{
+    color: #fffffff8;
+    background-color:#e406b4f8 ;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.botão2{
+    color: #fffffff8;
+    background-color:#e406b4f8 ;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.botão3{
+    color: #fffffff8;
+    background-color:#e406b4f8 ;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.botão4{
+    color: #fffffff8;
+    background-color:#e406b4f8 ;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.botão5{
+    color: #fffffff8;
+    background-color:#e406b4f8 ;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+.botoes{
+    gap: 5px;
+
+}
+
+}
+
+@media screen and (min-width:323px) and (max-width:600px) {
+    body{
+        background-color: #eba3dbf8;
+    }
+    .botão1{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão2{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão3{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão4{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão5{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    
+}
+
+@media screen and (min-width: 601px) and (max-width:2000px){
+    body{
+        background-color: #eba3dbf8;
+    }
+    .botão1{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão2{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão3{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão4{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+    .botão5{
+        color: #fffffff8;
+        background-color:#e406b4f8 ;
+        width: 180px;
+        height: 30px;
+        border-radius: 6px;
+        margin-left: 40px;
+    }
+     
+}
